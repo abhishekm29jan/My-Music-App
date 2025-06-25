@@ -58,12 +58,6 @@
 
 ---
 
-### 📸 Screenshots *(Optional)*
-
-*Add 2–3 images or GIFs here showing Home Screen, Navigation Drawer, Bottom Sheet.*
-
----
-
 ### 📌 Use Case
 
 This project serves as:
